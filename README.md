@@ -14,7 +14,7 @@ A Python toolkit for financial market analysis and tracking, focusing on S&P 500
 
 From TestPyPI:
 ```bash
-pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple simplificare-finance
+pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple simplificare-finance==0.1.3
 ```
 
 From PyPI (once published):
