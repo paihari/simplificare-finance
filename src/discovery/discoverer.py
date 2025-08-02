@@ -9,6 +9,7 @@ class SP500Discoverer:
         self.description = "The S&P 500 is a stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States."
         self.sp500_symbols = self.get_sp500_symbols()
         self.top_50_symbols = None
+        self.top_n = top_n
 
     def get_sp500_symbols(self):
         """Fetch current S&P 500 constituents from datahub.io"""
