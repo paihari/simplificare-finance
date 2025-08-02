@@ -97,3 +97,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Creating a new release
 
 Learn how to create a new release on the <a href="https://packaging.python.org/guides/section-build-and-publish/" title="External link" target="_blank" rel="noopener">Python Packaging User Guide</a>
+
+Learn how to publish <a href="https://packaging.python.org/en/latest/tutorials/packaging-projects/" title="External link" target="_blank" rel="noopener">Python Publishing Guide</a>
+
