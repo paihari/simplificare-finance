@@ -26,7 +26,7 @@ class SP500Discoverer:
                     symbol = 'BRK-B'
                 
                 if symbol == 'BF.B':
-                    symbol = 'BP-B'
+                    symbol = 'BF-B'
                 cleaned_symbols.append(symbol)
             
             print(f"✅ Successfully fetched {len(cleaned_symbols)} S&P 500 symbols")
