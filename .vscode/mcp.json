@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "finviz-finance": {
+            "command": "docker",
+            "args": [
+                "run",
+                "--rm",
+                "-i",
+                "mcp-finviz:latest"
+                ]
+            }
+        }
+}        
