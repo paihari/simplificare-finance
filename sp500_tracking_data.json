@@ -303,5 +303,615 @@
       }
     },
     "timestamp": "2025-08-02T13:01:23.122361"
+  },
+  "2025-08-04": {
+    "rankings": {
+      "NVDA": {
+        "rank": 1,
+        "market_cap_numeric": 4238.77,
+        "market_cap_str": "4238.77B",
+        "company": "NVIDIA Corp"
+      },
+      "MSFT": {
+        "rank": 2,
+        "market_cap_numeric": 3895.8,
+        "market_cap_str": "3895.80B",
+        "company": "Microsoft Corporation"
+      },
+      "AAPL": {
+        "rank": 3,
+        "market_cap_numeric": 3022.71,
+        "market_cap_str": "3022.71B",
+        "company": "Apple Inc"
+      },
+      "GOOGL": {
+        "rank": 4,
+        "market_cap_numeric": 2292.17,
+        "market_cap_str": "2292.17B",
+        "company": "Alphabet Inc"
+      },
+      "GOOG": {
+        "rank": 5,
+        "market_cap_numeric": 2292.17,
+        "market_cap_str": "2292.17B",
+        "company": "Alphabet Inc"
+      },
+      "AMZN": {
+        "rank": 6,
+        "market_cap_numeric": 2279.86,
+        "market_cap_str": "2279.86B",
+        "company": "Amazon.com Inc"
+      },
+      "META": {
+        "rank": 7,
+        "market_cap_numeric": 1885.64,
+        "market_cap_str": "1885.64B",
+        "company": "Meta Platforms Inc"
+      },
+      "AVGO": {
+        "rank": 8,
+        "market_cap_numeric": 1357.61,
+        "market_cap_str": "1357.61B",
+        "company": "Broadcom Inc"
+      },
+      "BRK-B": {
+        "rank": 9,
+        "market_cap_numeric": 1021.28,
+        "market_cap_str": "1021.28B",
+        "company": "Berkshire Hathaway Inc"
+      },
+      "TSLA": {
+        "rank": 10,
+        "market_cap_numeric": 976.12,
+        "market_cap_str": "976.12B",
+        "company": "Tesla Inc"
+      },
+      "JPM": {
+        "rank": 11,
+        "market_cap_numeric": 804.19,
+        "market_cap_str": "804.19B",
+        "company": "JPMorgan Chase & Co"
+      },
+      "WMT": {
+        "rank": 12,
+        "market_cap_numeric": 785.99,
+        "market_cap_str": "785.99B",
+        "company": "Walmart Inc"
+      },
+      "LLY": {
+        "rank": 13,
+        "market_cap_numeric": 722.49,
+        "market_cap_str": "722.49B",
+        "company": "Lilly(Eli) & Co"
+      },
+      "ORCL": {
+        "rank": 14,
+        "market_cap_numeric": 686.53,
+        "market_cap_str": "686.53B",
+        "company": "Oracle Corp"
+      },
+      "V": {
+        "rank": 15,
+        "market_cap_numeric": 653.79,
+        "market_cap_str": "653.79B",
+        "company": "Visa Inc"
+      },
+      "MA": {
+        "rank": 16,
+        "market_cap_numeric": 506.15,
+        "market_cap_str": "506.15B",
+        "company": "Mastercard Incorporated"
+      },
+      "NFLX": {
+        "rank": 17,
+        "market_cap_numeric": 492.32,
+        "market_cap_str": "492.32B",
+        "company": "Netflix Inc"
+      },
+      "XOM": {
+        "rank": 18,
+        "market_cap_numeric": 472.51,
+        "market_cap_str": "472.51B",
+        "company": "Exxon Mobil Corp"
+      },
+      "COST": {
+        "rank": 19,
+        "market_cap_numeric": 422.42,
+        "market_cap_str": "422.42B",
+        "company": "Costco Wholesale Corp"
+      },
+      "JNJ": {
+        "rank": 20,
+        "market_cap_numeric": 402.99,
+        "market_cap_str": "402.99B",
+        "company": "Johnson & Johnson"
+      },
+      "HD": {
+        "rank": 21,
+        "market_cap_numeric": 371.76,
+        "market_cap_str": "371.76B",
+        "company": "Home Depot, Inc"
+      },
+      "PLTR": {
+        "rank": 22,
+        "market_cap_numeric": 364.06,
+        "market_cap_str": "364.06B",
+        "company": "Palantir Technologies Inc"
+      },
+      "PG": {
+        "rank": 23,
+        "market_cap_numeric": 353.21,
+        "market_cap_str": "353.21B",
+        "company": "Procter & Gamble Co"
+      },
+      "ABBV": {
+        "rank": 24,
+        "market_cap_numeric": 344.84,
+        "market_cap_str": "344.84B",
+        "company": "Abbvie Inc"
+      },
+      "BAC": {
+        "rank": 25,
+        "market_cap_numeric": 338.2,
+        "market_cap_str": "338.20B",
+        "company": "Bank Of America Corp"
+      },
+      "CVX": {
+        "rank": 26,
+        "market_cap_numeric": 309.98,
+        "market_cap_str": "309.98B",
+        "company": "Chevron Corp"
+      },
+      "KO": {
+        "rank": 27,
+        "market_cap_numeric": 296.35,
+        "market_cap_str": "296.35B",
+        "company": "Coca-Cola Co"
+      },
+      "GE": {
+        "rank": 28,
+        "market_cap_numeric": 285.66,
+        "market_cap_str": "285.66B",
+        "company": "GE Aerospace"
+      },
+      "AMD": {
+        "rank": 29,
+        "market_cap_numeric": 278.4,
+        "market_cap_str": "278.40B",
+        "company": "Advanced Micro Devices Inc"
+      },
+      "TMUS": {
+        "rank": 30,
+        "market_cap_numeric": 266.95,
+        "market_cap_str": "266.95B",
+        "company": "T-Mobile US Inc"
+      },
+      "CSCO": {
+        "rank": 31,
+        "market_cap_numeric": 265.76,
+        "market_cap_str": "265.76B",
+        "company": "Cisco Systems, Inc"
+      },
+      "PM": {
+        "rank": 32,
+        "market_cap_numeric": 253.66,
+        "market_cap_str": "253.66B",
+        "company": "Philip Morris International Inc"
+      },
+      "WFC": {
+        "rank": 33,
+        "market_cap_numeric": 253.11,
+        "market_cap_str": "253.11B",
+        "company": "Wells Fargo & Co"
+      },
+      "CRM": {
+        "rank": 34,
+        "market_cap_numeric": 239.71,
+        "market_cap_str": "239.71B",
+        "company": "Salesforce Inc"
+      },
+      "IBM": {
+        "rank": 35,
+        "market_cap_numeric": 232.93,
+        "market_cap_str": "232.93B",
+        "company": "International Business Machines Corp"
+      },
+      "MS": {
+        "rank": 36,
+        "market_cap_numeric": 222.27,
+        "market_cap_str": "222.27B",
+        "company": "Morgan Stanley"
+      },
+      "ABT": {
+        "rank": 37,
+        "market_cap_numeric": 221.54,
+        "market_cap_str": "221.54B",
+        "company": "Abbott Laboratories"
+      },
+      "GS": {
+        "rank": 38,
+        "market_cap_numeric": 217.73,
+        "market_cap_str": "217.73B",
+        "company": "Goldman Sachs Group, Inc"
+      },
+      "MCD": {
+        "rank": 39,
+        "market_cap_numeric": 216.58,
+        "market_cap_str": "216.58B",
+        "company": "McDonald's Corp"
+      },
+      "INTU": {
+        "rank": 40,
+        "market_cap_numeric": 216.5,
+        "market_cap_str": "216.50B",
+        "company": "Intuit Inc"
+      },
+      "LIN": {
+        "rank": 41,
+        "market_cap_numeric": 216.26,
+        "market_cap_str": "216.26B",
+        "company": "Linde Plc"
+      },
+      "UNH": {
+        "rank": 42,
+        "market_cap_numeric": 215.69,
+        "market_cap_str": "215.69B",
+        "company": "Unitedhealth Group Inc"
+      },
+      "RTX": {
+        "rank": 43,
+        "market_cap_numeric": 209.9,
+        "market_cap_str": "209.90B",
+        "company": "RTX Corp"
+      },
+      "DIS": {
+        "rank": 44,
+        "market_cap_numeric": 209.6,
+        "market_cap_str": "209.60B",
+        "company": "Walt Disney Co"
+      },
+      "BX": {
+        "rank": 45,
+        "market_cap_numeric": 208.01,
+        "market_cap_str": "208.01B",
+        "company": "Blackstone Inc"
+      },
+      "AXP": {
+        "rank": 46,
+        "market_cap_numeric": 204.78,
+        "market_cap_str": "204.78B",
+        "company": "American Express Co"
+      },
+      "CAT": {
+        "rank": 47,
+        "market_cap_numeric": 201.62,
+        "market_cap_str": "201.62B",
+        "company": "Caterpillar Inc"
+      },
+      "MRK": {
+        "rank": 48,
+        "market_cap_numeric": 199.1,
+        "market_cap_str": "199.10B",
+        "company": "Merck & Co Inc"
+      },
+      "T": {
+        "rank": 49,
+        "market_cap_numeric": 198.42,
+        "market_cap_str": "198.42B",
+        "company": "AT&T, Inc"
+      },
+      "PEP": {
+        "rank": 50,
+        "market_cap_numeric": 190.69,
+        "market_cap_str": "190.69B",
+        "company": "PepsiCo Inc"
+      }
+    },
+    "timestamp": "2025-08-04T07:44:45.541110"
+  },
+  "2025-08-06": {
+    "rankings": {
+      "NVDA": {
+        "rank": 1,
+        "market_cap_numeric": 4341.25,
+        "market_cap_str": "4341.25B",
+        "company": "NVIDIA Corp"
+      },
+      "MSFT": {
+        "rank": 2,
+        "market_cap_numeric": 3905.91,
+        "market_cap_str": "3905.91B",
+        "company": "Microsoft Corporation"
+      },
+      "AAPL": {
+        "rank": 3,
+        "market_cap_numeric": 3121.38,
+        "market_cap_str": "3121.38B",
+        "company": "Apple Inc"
+      },
+      "GOOG": {
+        "rank": 4,
+        "market_cap_numeric": 2351.13,
+        "market_cap_str": "2351.13B",
+        "company": "Alphabet Inc"
+      },
+      "GOOGL": {
+        "rank": 5,
+        "market_cap_numeric": 2348.93,
+        "market_cap_str": "2348.93B",
+        "company": "Alphabet Inc"
+      },
+      "AMZN": {
+        "rank": 6,
+        "market_cap_numeric": 2298.29,
+        "market_cap_str": "2298.29B",
+        "company": "Amazon.com Inc"
+      },
+      "META": {
+        "rank": 7,
+        "market_cap_numeric": 1914.02,
+        "market_cap_str": "1914.02B",
+        "company": "Meta Platforms Inc"
+      },
+      "AVGO": {
+        "rank": 8,
+        "market_cap_numeric": 1388.93,
+        "market_cap_str": "1388.93B",
+        "company": "Broadcom Inc"
+      },
+      "TSLA": {
+        "rank": 9,
+        "market_cap_numeric": 1016.05,
+        "market_cap_str": "1016.05B",
+        "company": "Tesla Inc"
+      },
+      "BRK-B": {
+        "rank": 10,
+        "market_cap_numeric": 1002.43,
+        "market_cap_str": "1002.43B",
+        "company": "Berkshire Hathaway Inc"
+      },
+      "JPM": {
+        "rank": 11,
+        "market_cap_numeric": 810.77,
+        "market_cap_str": "810.77B",
+        "company": "JPMorgan Chase & Co"
+      },
+      "WMT": {
+        "rank": 12,
+        "market_cap_numeric": 806.15,
+        "market_cap_str": "806.15B",
+        "company": "Walmart Inc"
+      },
+      "LLY": {
+        "rank": 13,
+        "market_cap_numeric": 719.26,
+        "market_cap_str": "719.26B",
+        "company": "Lilly(Eli) & Co"
+      },
+      "ORCL": {
+        "rank": 14,
+        "market_cap_numeric": 709.81,
+        "market_cap_str": "709.81B",
+        "company": "Oracle Corp"
+      },
+      "V": {
+        "rank": 15,
+        "market_cap_numeric": 647.33,
+        "market_cap_str": "647.33B",
+        "company": "Visa Inc"
+      },
+      "MA": {
+        "rank": 16,
+        "market_cap_numeric": 511.74,
+        "market_cap_str": "511.74B",
+        "company": "Mastercard Incorporated"
+      },
+      "NFLX": {
+        "rank": 17,
+        "market_cap_numeric": 490.91,
+        "market_cap_str": "490.91B",
+        "company": "Netflix Inc"
+      },
+      "XOM": {
+        "rank": 18,
+        "market_cap_numeric": 460.86,
+        "market_cap_str": "460.86B",
+        "company": "Exxon Mobil Corp"
+      },
+      "COST": {
+        "rank": 19,
+        "market_cap_numeric": 422.84,
+        "market_cap_str": "422.84B",
+        "company": "Costco Wholesale Corp"
+      },
+      "PLTR": {
+        "rank": 20,
+        "market_cap_numeric": 416.55,
+        "market_cap_str": "416.55B",
+        "company": "Palantir Technologies Inc"
+      },
+      "JNJ": {
+        "rank": 21,
+        "market_cap_numeric": 412.02,
+        "market_cap_str": "412.02B",
+        "company": "Johnson & Johnson"
+      },
+      "HD": {
+        "rank": 22,
+        "market_cap_numeric": 384.35,
+        "market_cap_str": "384.35B",
+        "company": "Home Depot, Inc"
+      },
+      "PG": {
+        "rank": 23,
+        "market_cap_numeric": 354.9,
+        "market_cap_str": "354.90B",
+        "company": "Procter & Gamble Co"
+      },
+      "ABBV": {
+        "rank": 24,
+        "market_cap_numeric": 345.15,
+        "market_cap_str": "345.15B",
+        "company": "Abbvie Inc"
+      },
+      "BAC": {
+        "rank": 25,
+        "market_cap_numeric": 338.46,
+        "market_cap_str": "338.46B",
+        "company": "Bank Of America Corp"
+      },
+      "CVX": {
+        "rank": 26,
+        "market_cap_numeric": 314.29,
+        "market_cap_str": "314.29B",
+        "company": "Chevron Corp"
+      },
+      "KO": {
+        "rank": 27,
+        "market_cap_numeric": 298.12,
+        "market_cap_str": "298.12B",
+        "company": "Coca-Cola Co"
+      },
+      "GE": {
+        "rank": 28,
+        "market_cap_numeric": 287.95,
+        "market_cap_str": "287.95B",
+        "company": "GE Aerospace"
+      },
+      "CSCO": {
+        "rank": 29,
+        "market_cap_numeric": 270.56,
+        "market_cap_str": "270.56B",
+        "company": "Cisco Systems, Inc"
+      },
+      "TMUS": {
+        "rank": 30,
+        "market_cap_numeric": 269.08,
+        "market_cap_str": "269.08B",
+        "company": "T-Mobile US Inc"
+      },
+      "AMD": {
+        "rank": 31,
+        "market_cap_numeric": 262.31,
+        "market_cap_str": "262.31B",
+        "company": "Advanced Micro Devices Inc"
+      },
+      "PM": {
+        "rank": 32,
+        "market_cap_numeric": 258.97,
+        "market_cap_str": "258.97B",
+        "company": "Philip Morris International Inc"
+      },
+      "WFC": {
+        "rank": 33,
+        "market_cap_numeric": 255.01,
+        "market_cap_str": "255.01B",
+        "company": "Wells Fargo & Co"
+      },
+      "CRM": {
+        "rank": 34,
+        "market_cap_numeric": 237.01,
+        "market_cap_str": "237.01B",
+        "company": "Salesforce Inc"
+      },
+      "IBM": {
+        "rank": 35,
+        "market_cap_numeric": 232.79,
+        "market_cap_str": "232.79B",
+        "company": "International Business Machines Corp"
+      },
+      "ABT": {
+        "rank": 36,
+        "market_cap_numeric": 227.5,
+        "market_cap_str": "227.50B",
+        "company": "Abbott Laboratories"
+      },
+      "UNH": {
+        "rank": 37,
+        "market_cap_numeric": 226.04,
+        "market_cap_str": "226.04B",
+        "company": "Unitedhealth Group Inc"
+      },
+      "MS": {
+        "rank": 38,
+        "market_cap_numeric": 225.17,
+        "market_cap_str": "225.17B",
+        "company": "Morgan Stanley"
+      },
+      "MCD": {
+        "rank": 39,
+        "market_cap_numeric": 220.73,
+        "market_cap_str": "220.73B",
+        "company": "McDonald's Corp"
+      },
+      "LIN": {
+        "rank": 40,
+        "market_cap_numeric": 220.54,
+        "market_cap_str": "220.54B",
+        "company": "Linde Plc"
+      },
+      "GS": {
+        "rank": 41,
+        "market_cap_numeric": 219.06,
+        "market_cap_str": "219.06B",
+        "company": "Goldman Sachs Group, Inc"
+      },
+      "INTU": {
+        "rank": 42,
+        "market_cap_numeric": 213.92,
+        "market_cap_str": "213.92B",
+        "company": "Intuit Inc"
+      },
+      "RTX": {
+        "rank": 43,
+        "market_cap_numeric": 209.24,
+        "market_cap_str": "209.24B",
+        "company": "RTX Corp"
+      },
+      "AXP": {
+        "rank": 44,
+        "market_cap_numeric": 206.13,
+        "market_cap_str": "206.13B",
+        "company": "American Express Co"
+      },
+      "BX": {
+        "rank": 45,
+        "market_cap_numeric": 205.83,
+        "market_cap_str": "205.83B",
+        "company": "Blackstone Inc"
+      },
+      "DIS": {
+        "rank": 46,
+        "market_cap_numeric": 204.96,
+        "market_cap_str": "204.96B",
+        "company": "Walt Disney Co"
+      },
+      "CAT": {
+        "rank": 47,
+        "market_cap_numeric": 203.17,
+        "market_cap_str": "203.17B",
+        "company": "Caterpillar Inc"
+      },
+      "MRK": {
+        "rank": 48,
+        "market_cap_numeric": 202.15,
+        "market_cap_str": "202.15B",
+        "company": "Merck & Co Inc"
+      },
+      "T": {
+        "rank": 49,
+        "market_cap_numeric": 199.67,
+        "market_cap_str": "199.67B",
+        "company": "AT&T, Inc"
+      },
+      "PEP": {
+        "rank": 50,
+        "market_cap_numeric": 192.19,
+        "market_cap_str": "192.19B",
+        "company": "PepsiCo Inc"
+      }
+    },
+    "timestamp": "2025-08-06T16:37:56.174500"
   }
 }
