@@ -110,7 +110,7 @@ pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://
 
 #### Development Installation
 ```bash
-git clone https://github.com/pupli/simplificare-finance.git
+git clone https://github.com/paihari/simplificare-finance.git
 cd simplificare-finance
 pip install -e ".[dev]"
 ```
@@ -339,7 +339,7 @@ Contributions are welcome! Please follow these steps:
 
 ### Development Setup
 ```bash
-git clone https://github.com/pupli/simplificare-finance.git
+git clone https://github.com/paihari/simplificare-finance.git
 cd simplificare-finance
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
@@ -355,15 +355,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Hari Bantwal**
 - Email: hari@simplificare.ch
 - eToro: [bantwal](https://www.etoro.com/people/bantwal)
-- GitHub: [@pupli](https://github.com/pupli)
+- GitHub: [@paihari](https://github.com/paihari)
 
 ## 🔗 Links
 
 - **PyPI Package**: https://pypi.org/project/simplificare-finance/
-- **Source Code**: https://github.com/pupli/simplificare-finance
+- **Source Code**: https://github.com/paihari/simplificare-finance
 - **eToro Analysis**: https://www.etoro.com/people/bantwal
-- **Documentation**: https://github.com/pupli/simplificare-finance#readme
+- **Documentation**: https://github.com/paihari/simplificare-finance#readme
 
----
-
-*Built with ❤️ for the financial analysis community*

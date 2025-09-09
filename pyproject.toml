@@ -29,9 +29,9 @@ dependencies = [
 packages = ["src/discovery"]
 
 [project.urls]
-Homepage = "https://github.com/pupli/simplificare-finance"
-Documentation = "https://github.com/pupli/simplificare-finance#readme"
-Repository = "https://github.com/pupli/simplificare-finance.git"
+Homepage = "https://github.com/paihari/simplificare-finance"
+Documentation = "https://github.com/paihari/simplificare-finance#readme"
+Repository = "https://github.com/paihari/simplificare-finance.git"
 
 [project.optional-dependencies]
 dev = [
